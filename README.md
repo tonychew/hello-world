@@ -1,2 +1,2 @@
 # hello-world
-This is my hello world repository
+My name is tony and I am a programmer trying to learn GitHub 
